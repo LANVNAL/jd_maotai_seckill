@@ -1,21 +1,4 @@
-# 近期先不修改了，有啥问题会写代码的自己改改吧！最近股市行情好，茅台的事情先放一放，炒股赚钱去了。
-说句实话有点看不上茅台这点钱了.....
-自己赚钱不如带大家一起赚钱，独乐乐不如众乐乐
-
-有需要炒股赚钱的加群吧
-
-<table id='wechat_group1'>
- <tr>
-        <td id='group_3'>
-            <img src="https://github.com/ChinaVolvocars/jd_maotai_seckill/blob/master/wx3.png?size=140">
-            <h4 align='center'>群3</h4>
-        </td>
-   <td id='group_4'>
-            <img src="https://github.com/ChinaVolvocars/jd_maotai_seckill/blob/master/wx4.png?size=140">
-            <h4 align='center'>群4</h4>
-        </td>
-    </tr>
-</table>
+# Fork一份学习一下
 
 
 # Jd_Seckill
